@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BlinkingSign
+comment1.params=m1\ m2\ d\ t
+comment1.target=BlinkingSign(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=void\ blink()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=double\ getBlinkTime()
+numComments=5
